@@ -39,7 +39,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+There could be bug when refresh the page too many times or scroll all the way to the bottom. It is fun to build this app, it gives me more knowledge on how to build an android app. Due to time issue, I couldn't implement a nicer UI. Will follow up on this project in future.
 
 ## Open-source libraries used
 
