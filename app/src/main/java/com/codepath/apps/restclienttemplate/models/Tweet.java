@@ -1,7 +1,5 @@
 package com.codepath.apps.restclienttemplate.models;
 
-import com.codepath.apps.restclienttemplate.TimeFormatter;
-
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -9,7 +7,7 @@ import org.json.JSONObject;
 import java.util.ArrayList;
 import java.util.List;
 
-import static com.codepath.apps.restclienttemplate.TimeFormatter.getTimeDifference;
+import static com.codepath.apps.restclienttemplate.apicalls.TimeFormatter.getTimeDifference;
 
 public class Tweet {
     public String body;

@@ -1,4 +1,4 @@
-package com.codepath.apps.restclienttemplate;
+package com.codepath.apps.restclienttemplate.apicalls;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
